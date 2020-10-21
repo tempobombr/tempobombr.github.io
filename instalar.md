@@ -2,9 +2,9 @@
 
 ## Download do aplicativo servidor
 
-Baixe o aplicativo servidor [através deste link](download). O aplicativo funciona preferencialmente em Windows 10 ou Windows Server 2012, mas deve funcionar bem em versões mais antigas.
+Baixe o aplicativo servidor [através deste link](download.md). O aplicativo funciona preferencialmente em Windows 10 ou Windows Server 2012, mas deve funcionar bem em versões mais antigas.
 
-Caso tenha problemas pra instalar entre em contato com o [suporte](suporte).
+Caso tenha problemas pra instalar entre em contato com o [suporte](suporte.md).
 
 
 ## Passos para configuração inicial

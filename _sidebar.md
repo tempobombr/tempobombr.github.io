@@ -1,3 +1,5 @@
-* [Página inicial](/)
-* [Antes de instalar](antes-instalar.md)
-* [instalar](instalar.md)
+- [Página inicial](/)
+- [Antes de instalar](antes-instalar.md)
+- [Como instalar](instalar.md)
+- [Download](download.md)
+- [Contato e suporte](suporte.md)
