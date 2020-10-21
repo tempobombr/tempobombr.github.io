@@ -1,9 +1,9 @@
-# 1. Antes de instalar
+# Antes de instalar
 
 
 ## Como o sistema é dividido
 
-De forma simples o sistema é um aplicativo servidor que fica instalado em um computador em sua rede. **Todos os computadores que estiverem em sua rede podem acessar o sistema pelo navegador, sem instalar nada**. Com algumas configurações também é possível disponibilizar o sistema para acesso externo, para isso há um [guia dedicado](internet).
+De forma simples o sistema é um aplicativo servidor que fica instalado em um computador em sua rede. **Todos os computadores que estiverem em sua rede podem acessar o sistema pelo navegador, sem instalar nada**. Com algumas configurações também é possível disponibilizar o sistema para acesso externo, para isso há um [guia dedicado](instalar-externo.md).
 
 
 ## Algumas informações importantes

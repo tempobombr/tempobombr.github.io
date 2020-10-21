@@ -1,4 +1,4 @@
-# 2. Como instalar
+# Como instalar
 
 ## Download do aplicativo servidor
 
